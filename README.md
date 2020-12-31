@@ -4,10 +4,21 @@ My personal settings for vscode | Will probably update as I learn more
 
 [Clang-Format_Style_Options](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
 
-## Files
+# Files
 
-**launch.json** - Just default for now
+## Using make to build
+**launch.json**
 
-**tasks.json** - Edited to let make build program
+**tasks.json**
 
-**settings.json** - Clang-Format Style Options settings. -- Changed "tab size" to 8 in text editor settings and disable "Detect Indentation"
+## c/c++ extension format settings
+
+**settings.json** 
+
+Changed "tab size" to 8 in text editor settings.
+
+![Pic](https://github.com/UtterVitriol/vscode_settings/images/tab_size.PNG)
+
+Disable "Detect Indentation".
+
+![Pic](https://github.com/UtterVitriol/vscode_settings/images/detect_indentation.PNG)
