@@ -10,4 +10,4 @@ My personal settings for vscode | Will probably update as I learn more
 
 **tasks.json** - Edited to let make build program
 
-**settings.json** - Clang-Format Style Options settings.
+**settings.json** - Clang-Format Style Options settings. -- Changed tab size to 8 in text editor settings.
