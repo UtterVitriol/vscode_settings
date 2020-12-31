@@ -17,8 +17,8 @@ My personal settings for vscode | Will probably update as I learn more
 
 Changed "tab size" to 8 in text editor settings.
 
-![Pic.png](https://github.com/UtterVitriol/vscode_settings/tree/main/images/tab_size.PNG)
+![Pic.png](https://raw.githubusercontent.com/UtterVitriol/vscode_settings/main/images/tab_size.PNG)
 
 Disable "Detect Indentation".
 
-![Pic.png](https://github.com/UtterVitriol/vscode_settings/tree/main/images/detect_indentation.PNG)
+![Pic.png](https://raw.githubusercontent.com/UtterVitriol/vscode_settings/main/images/detect_indentation.PNG)
